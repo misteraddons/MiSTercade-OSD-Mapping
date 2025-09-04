@@ -13,7 +13,7 @@ MiSTercade V1 instructions:
 [misteraddons/mistercade_v1_2025_mappings]
 db_url = https://raw.githubusercontent.com/misteraddons/mistercade_v1_2025_mappings/db/db.json.zip
 
-[misteraddons/mistercade-osd-mappings]
+[misteraddons/mistercade-osd-mapping]
 db_url = https://raw.githubusercontent.com/misteraddons/mistercade-osd-mapping/db/db.json.zip
 ```
 
