@@ -13,7 +13,7 @@ MiSTercade V1 instructions:
 [misteraddons/mistercade_v1_2025_mappings]
 db_url = https://raw.githubusercontent.com/misteraddons/mistercade_v1_2025_mappings/db/db.json.zip
 
-[misteraddons/mistercade_osd_mappings]
+[misteraddons/mistercade-osd-mappings]
 db_url = https://raw.githubusercontent.com/misteraddons/mistercade-osd-mapping/db/db.json.zip
 ```
 
@@ -22,7 +22,7 @@ MiSTercade V2 instructions:
 [misteraddons/mistercade_v2_mappings]
 db_url = https://raw.githubusercontent.com/misteraddons/mistercade_v2_mappings/db/db.json.zip
 
-[misteraddons/mistercade_osd_mappings]
+[misteraddons/mistercade-osd-mappings]
 db_url = https://raw.githubusercontent.com/misteraddons/mistercade-osd-mapping/db/db.json.zip
 ```
 After that, run *downloader* or *update_all* as usual. It will try to fetch the files from your newly created database. 
