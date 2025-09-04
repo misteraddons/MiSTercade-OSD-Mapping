@@ -10,8 +10,8 @@ To integrate it in a MiSTer device, add the following section to the end of to t
 
 MiSTercade V1 instructions:
 ```ini
-[misteraddons/mistercade_v1_2025_freeplay_mappings]
-db_url = https://raw.githubusercontent.com/misteraddons/mistercade_v1_2025_freeplay_mappings/db/db.json.zip
+[misteraddons/mistercade_v1_2025_mappings]
+db_url = https://raw.githubusercontent.com/misteraddons/mistercade_v1_2025_mappings/db/db.json.zip
 
 [misteraddons/mistercade_osd_mappings]
 db_url = https://raw.githubusercontent.com/misteraddons/mistercade-osd-mapping/db/db.json.zip
